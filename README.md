@@ -2,7 +2,7 @@
 
 Aplikasi sederhana untuk menyimpan dan mengelola password secara lokal menggunakan Python. Dilengkapi tampilan GUI (Tkinter) yang bersih, fitur pencarian, dan mode gelap. Password disimpan secara terenkripsi agar tetap aman.
 
-![Tampilan Aplikasi](screenshots/demo.png) <!-- Ganti dengan screenshot buatanmu -->
+![Tampilan Aplikasi](demo.png) <!-- Ganti dengan screenshot buatanmu -->
 
 ---
 
