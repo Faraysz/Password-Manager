@@ -17,9 +17,20 @@ Aplikasi sederhana untuk menyimpan dan mengelola password secara lokal menggunak
 
 ---
 
-## 🚀 Cara Menjalankan
+## ⚙️ Teknologi yang Digunakan
 
-1. **Klon repositori**
-```bash
-git clone https://github.com/username/password-manager-gui.git
-cd password-manager-gui
+- Python 3
+- Tkinter (untuk GUI)
+- Cryptography (Fernet encryption)
+- JSON (penyimpanan lokal)
+
+---
+
+## ⚠️ Catatan Keamanan
+
+Aplikasi ini dibuat untuk **tujuan pembelajaran**.
+
+Tidak disarankan digunakan untuk menyimpan data sensitif dalam skala nyata tanpa fitur keamanan tambahan seperti:
+- Otentikasi master password
+- Penyimpanan terenkripsi di luar (bukan hanya file JSON lokal)
+- Sistem proteksi tambahan lainnya
